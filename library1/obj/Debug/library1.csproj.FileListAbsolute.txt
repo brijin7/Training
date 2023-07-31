@@ -1,0 +1,734 @@
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\library1.dll.config
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\library1.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\library1.pdb
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\csc.exe
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\csc.exe.config
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\csc.rsp
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\csi.exe
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\csi.exe.config
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\csi.rsp
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.AppContext.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Console.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Net.Http.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\vbc.exe
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\vbc.exe.config
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\vbc.rsp
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Antlr3.Runtime.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Newtonsoft.Json.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\System.Web.Optimization.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\WebGrease.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\System.Web.Optimization.xml
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Newtonsoft.Json.xml
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Antlr3.Runtime.pdb
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Cyrileditz\source\repos\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cyrileditz\source\repos\library1\library1\obj\Debug\library1.csproj.AssemblyReference.cache
+C:\Users\Cyrileditz\source\repos\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+C:\Users\Cyrileditz\source\repos\library1\library1\obj\Debug\library1.csproj.CopyComplete
+C:\Users\Cyrileditz\source\repos\library1\library1\obj\Debug\library1.dll
+C:\Users\Cyrileditz\source\repos\library1\library1\obj\Debug\library1.pdb
+D:\library1\library1\bin\library1.dll.config
+D:\library1\library1\bin\library1.dll
+D:\library1\library1\bin\library1.pdb
+D:\library1\library1\bin\roslyn\csc.exe
+D:\library1\library1\bin\roslyn\csc.exe.config
+D:\library1\library1\bin\roslyn\csc.rsp
+D:\library1\library1\bin\roslyn\csi.exe
+D:\library1\library1\bin\roslyn\csi.exe.config
+D:\library1\library1\bin\roslyn\csi.rsp
+D:\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\library1\library1\bin\roslyn\System.AppContext.dll
+D:\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+D:\library1\library1\bin\roslyn\System.Console.dll
+D:\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+D:\library1\library1\bin\roslyn\System.IO.Compression.dll
+D:\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+D:\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\library1\library1\bin\roslyn\System.Net.Http.dll
+D:\library1\library1\bin\roslyn\System.Net.Sockets.dll
+D:\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+D:\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\library1\library1\bin\roslyn\System.ValueTuple.dll
+D:\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\library1\library1\bin\roslyn\System.Xml.XPath.dll
+D:\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\library1\library1\bin\roslyn\vbc.exe
+D:\library1\library1\bin\roslyn\vbc.exe.config
+D:\library1\library1\bin\roslyn\vbc.rsp
+D:\library1\library1\bin\roslyn\VBCSCompiler.exe
+D:\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+D:\library1\library1\bin\Antlr3.Runtime.dll
+D:\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+D:\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+D:\library1\library1\bin\Newtonsoft.Json.dll
+D:\library1\library1\bin\System.Web.Optimization.dll
+D:\library1\library1\bin\WebGrease.dll
+D:\library1\library1\bin\System.Web.Optimization.xml
+D:\library1\library1\bin\Newtonsoft.Json.xml
+D:\library1\library1\bin\Antlr3.Runtime.pdb
+D:\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\library1\library1\obj\Debug\library1.csproj.AssemblyReference.cache
+D:\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+D:\library1\library1\obj\Debug\library1.csproj.CopyComplete
+D:\library1\library1\obj\Debug\library1.dll
+D:\library1\library1\obj\Debug\library1.pdb
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\library1.dll.config
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\library1.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\library1.pdb
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\obj\Debug\library1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\obj\Debug\library1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\obj\Debug\library1.dll
+C:\Users\Admin\Desktop\Freshers\Oct-27\library1\library1\obj\Debug\library1.pdb
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\library1.dll.config
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\library1.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\library1.pdb
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\csc.exe
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\csi.exe
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\WebGrease.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\obj\Debug\library1.csproj.AssemblyReference.cache
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\obj\Debug\library1.csproj.CopyComplete
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\obj\Debug\library1.dll
+C:\Users\Cyrileditz\Downloads\library1 3.32\library1\library1\obj\Debug\library1.pdb
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\library1.dll.config
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\library1.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\library1.pdb
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\obj\Debug\library1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\obj\Debug\library1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\obj\Debug\library1.dll
+C:\Users\Admin\Desktop\Freshers\Oct-28\library1 3.32\library1\library1\obj\Debug\library1.pdb
+D:\library1 12.47\library1 3.32\library1\library1\bin\library1.dll.config
+D:\library1 12.47\library1 3.32\library1\library1\bin\library1.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\library1.pdb
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+D:\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+D:\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\WebGrease.dll
+D:\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+D:\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+D:\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csproj.AssemblyReference.cache
+D:\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+D:\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csproj.CopyComplete
+D:\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.dll
+D:\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.pdb
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll.config
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.pdb
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\WebGrease.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csprojResolveAssemblyReference.cache
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.dll
+E:\Brijin\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.pdb
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll.config
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.pdb
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\WebGrease.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csprojResolveAssemblyReference.cache
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.dll
+E:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.pdb
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll.config
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.pdb
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\WebGrease.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csprojResolveAssemblyReference.cache
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.dll
+D:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.pdb
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll.config
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\library1.pdb
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.exe.config
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csc.rsp
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.exe.config
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\csi.rsp
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.AppContext.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Collections.Immutable.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Console.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Globalization.Calendars.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Http.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Net.Sockets.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.ValueTuple.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.exe.config
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\vbc.rsp
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\roslyn\VBCSCompiler.exe.config
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.Web.Infrastructure.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\WebGrease.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\System.Web.Optimization.xml
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Newtonsoft.Json.xml
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Antlr3.Runtime.pdb
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csproj.AssemblyReference.cache
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.csproj.CopyComplete
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.dll
+F:\Brijin\traing\library1 (29)\library1 12.47\library1 3.32\library1\library1\obj\Debug\library1.pdb

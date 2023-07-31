@@ -1,0 +1,219 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="New.master.cs" Inherits="library1.New" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Library Details</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+
+    <script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.0/sweetalert.min.js"></script>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.0/sweetalert.min.css"
+        rel="stylesheet" type="text/css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"/>
+    <link rel="stylesheet" href="/resources/demos/style.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <style type="text/css">
+        a:hover {
+            background-color: gray;
+        }
+
+        .dropdown-item:hover {
+            background-color: gray;
+        }
+
+        header {
+            width: 100%;
+        }
+
+        .vError {
+            font-size: 12px;
+            color: red;
+            float: right;
+        }
+
+        /***  Gridview Page Style  **/ .gvPage a, .gvPage span {
+            display: block;
+            height: 22px;
+            width: 20px;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+
+        .gvPage a {
+            background-color: #f5f5f5;
+            color: #008230;
+            border: 1px solid White;
+        }
+
+        .gvPage span {
+            background-color: #008230;
+            color: White;
+            border: 1px solid White;
+        }
+    </style>
+       <style type="text/css">
+        .auto-style1 {
+            width: 480px;
+        }
+        .auto-style2 {
+            width: 167px;
+        }
+        .auto-style3 {
+            width: 167px;
+            height: 30px;
+        }
+        .auto-style4 {
+            height: 30px;
+        }
+    </style>
+
+    <script type="text/javascript"> 
+        function erroralert() {
+            swal({
+                title: 'Oops!',
+                text: 'The value Alreday Exists!',
+                type: 'info'
+            });
+        }
+        function Noalert() {
+            swal({
+                title: 'Oops!',
+                text: 'Sorry,The Book IS Not Available!',
+                type: 'info'
+            });
+        }
+        function returnalert() {
+            swal({
+                title: 'Congratulations!',
+                text: 'Return succesfully!',
+                type: 'success'
+            });
+        }
+        function successalert() {
+            swal({
+                title: 'Congratulations!',
+                text: 'Submited succesfully!',
+                type: 'success'
+            });
+        }
+        function updatealert() {
+            swal({
+                title: 'Congratulations!',
+                text: 'Updated Successfully!',
+                type: 'success'
+            });
+        }
+        function deletealert() {
+            swal({
+                title: 'Congratulations!',
+                text: 'Deleted Successfully!',
+                type: 'success'
+            });
+        }
+        function otheralert() {
+            swal({
+                title: 'Oops!',
+                text: 'Something went wrong on the page!',
+                type: 'error'
+            });
+        }
+        function onlyalert() {
+            swal({
+                title: 'Sorry!',
+                text: 'only one row will be allowed!',
+                type: 'info'
+            });
+        }
+        $(function () {
+            $(".datepicker-1").datepicker();
+        });
+        function isNumber(evt) {
+            evt = (evt) ? evt : window.event;
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+                return false;
+            }
+            return true;
+        }
+      
+
+      
+    </script>
+    
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="container-fluid">
+                <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                                            <a  class="btn btn-dark" href="Home.aspx"><i class="fa fa-book"  aria-hidden="true"></i>&nbsp;Library Info</a>
+                    <div class="dropdown">
+                        <button id="lblmaster" runat="server" type="button" class="btn btn-dark dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+                         <i   class="fa fa-pencil-square-o" aria-hidden="true"></i>&nbsp;Master
+                          </button>
+                     <div class="dropdown-menu">                        
+                         <a id="lblbooka" runat="server" class="dropdown-item" href="Bookauthor.aspx">Book Authors</a>
+                            <a id="lblbook" runat="server" class="dropdown-item" href="Books.aspx">Book Name</a>
+                         <a id="lblnew" runat="server" class="dropdown-item" href="newuser.aspx">New Registration</a>
+                         <a id="lbldet" runat="server" class="dropdown-item" href="Staffstudentdetails.aspx">Staff Student Details</a>
+
+                         
+                        </div>
+                  </div>
+                    <div class="dropdown">
+                        <button id="lbltrans" runat="server" type="button" class="btn btn-dark dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+                         <i   class="fa fa-users" aria-hidden="true"></i>&nbsp;Transaction
+                          </button>
+                     <div class="dropdown-menu">                        
+                            <a id="lblbc" runat="server" class="dropdown-item" href="BookCollection.aspx">Book Collections</a>
+                            <a id="lblbr" runat="server" class="dropdown-item" href="Bookreturn.aspx">Book Return</a>
+                         <a class="dropdown-item" href="#"></a>
+
+                         
+                        </div>
+                  </div>
+                    <div class="dropdown">
+                        <button id="lblreport" runat="server" type="button" class="btn btn-dark dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+                         <i  class="fa fa-users" aria-hidden="true"></i>&nbsp;Report
+                          </button>
+                     <div class="dropdown-menu">                        
+                            <a id="lblc" runat="server" class="dropdown-item" href="Collections.aspx">Collections</a>
+                            <a id="lblot" runat="server" class="dropdown-item" href="Ontime.aspx">On Time</a>
+                         <a id="lblout" runat="server" class="dropdown-item" href="Outoftime.aspx">Out Of Time</a>
+
+                         
+                        </div>
+                  </div>
+                 
+                 <a class="nav-link" href="login.aspx">Logout</a>
+    
+            </nav>                
+                <div id="head" align="Center">
+    
+        <asp:Image ID="Image1" runat="server" ImageUrl="~/img/dlibrary500.png" />
+    
+    </div>
+                
+               
+                  <asp:ContentPlaceHolder ID="ContentBody" runat="server">
+                  </asp:ContentPlaceHolder>
+            </div>
+        </div>
+
+    </form>
+</body>
+</html>
